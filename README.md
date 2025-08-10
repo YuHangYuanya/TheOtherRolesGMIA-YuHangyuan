@@ -2309,4 +2309,4 @@ Town-Of-Host-Enhanced - Gradient color (full code)
 
 # Translation
 
-As of v1.1.0, The Other Roles GM IA now supports translation into other languages. To add a new language, add translations to [Strings.xlsx](/Strings.xlsx) and submit a pull request.
+As of v1.1.0, The Other Roles GM IA now supports translation into other languages. To add a new language, add translations to [Strings.xlsx](/Strings.xlsx),and submit a pull request.
